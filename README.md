@@ -1,8 +1,9 @@
 # Emotion Detection System
 
 ## Description
-This project detects human emotions from images using Deep Learning.  
-It uses Convolutional Neural Networks (CNN) to classify emotions from facial images.
+This project detects human emotions from facial images using Deep Learning, with a focus on analyzing emotional responses in individuals with autism.  
+It uses Convolutional Neural Networks (CNN) to classify emotions such as Happy, Sad, Angry, Surprise, and Neutral.  
+The system can help in understanding and tracking emotional patterns, which is useful for autism therapy and behavioral studies.
 
 ---
 
